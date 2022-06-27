@@ -1,0 +1,159 @@
+.video-background{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background-color: black
+}
+
+.caption{
+    position: relative;
+    top: 10%;
+    width: 100%;
+    /* background-color: black; */
+
+}
+
+
+
+.back{
+    background-image:url('scope.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bac3{
+    background-color:black;    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.back1{
+    background-image:url('pinkMed.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+.back2{
+    background-image:url('medecine.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+
+.back5{
+    background-image:url('doctorScope.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+.back6{
+    background-image:url('gradienta.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-size: cover;
+}
+
+.caption1{
+    position: relative;
+    width: 100%;
+    /* background-color: black; */
+}
+.caption2{
+    position: relative;
+    top: 110%;
+    width: 100%;
+}
+.caption h1{
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: .2rem;
+    text-shadow: .1rem .1rem .8rem black;
+    padding-bottom: 1 rem;
+}
+
+.caption label{
+    font-size: 0.8rem;
+    text-shadow: .1rem .1rem .5rem black;
+} 
+
+.btn-lg{
+    border-width: medium;
+    border-radius: 5;
+    font-size: 1.5rem;
+    padding: .6rem 1.3rem;
+    text-shadow: .1rem .1rem .8rem black;
+    
+}
+
+ 
+.centered-heading{
+    position: absolute;
+    font-weight: bold;
+    top: 10%;
+    left: 49.5%;
+    font-size: 4em ;
+}
+
+.centered{
+    position: absolute;
+    top: 32%;
+    left: 51%;
+    font-size: 1.5em ;
+}
+
+#continue{
+    position: absolute;
+    top: 38%;
+    left: 51%;
+   
+}
+
+
+.table1{
+    width: 100%;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 35px;
+    height: 35px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+
+.fa1 {
+    padding: 8px;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.8;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  /* .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+   */
+  /* Twitter */
+  /* .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  } */
+
+  .myvidio{
+    position: relative;
+    min-height: auto;
+    width: 100%;
+  }
